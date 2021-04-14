@@ -24,6 +24,7 @@ The main goal here is to create a character that REALLY punishes you for any mis
 - Slower movement speed and higher hpfor the sosigs
 - No hp weenies and only single hp crates in supplies
 - Only low cal weapons, attack its weak point for massive damage
+- You need to extract after 5th hold, you thought it would be that easy?
  
 ## Installation
 Requires: TnhTweaker 1.6.0 and Deli 3.0
